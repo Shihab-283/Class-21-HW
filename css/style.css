@@ -1,0 +1,51 @@
+#div1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(112, 32, 158);
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    display: none;
+}
+
+#div2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(37, 37, 58);
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+
+#div3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(102, 102, 126);
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+
+#flip{
+    background-color: blueviolet;
+    padding: 30px;
+    text-align: center;
+
+}
+#panel{
+    background-color: rgba(86, 85, 141, 0.253);
+    padding: 50px;
+    text-align: center;
+    display: none;
+}
+#animate{
+    background-color: rgba(78, 74, 69, 0.685);
+    width: 200px;
+    height: 200px;
+    margin-left: 50%;
+    position: absolute;
+    
+}
+.blue {
+    color: blue;
+  }
